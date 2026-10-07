@@ -1,0 +1,167 @@
+﻿body {
+  background-color: #eaf3fb;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #ffffff;
+  background-color: #0078d4;
+  text-align: center;
+  padding: 20px;
+  margin-top: 0;
+  border-radius: 8px;
+}
+
+p {
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+body > p {
+  text-align: center;
+  font-size: 19px;
+  color: #333333;
+  font-weight: bold;
+}
+
+h2 {
+  color: #0078d4;
+  text-align: center;
+  font-size: 24px;
+  text-decoration: underline;
+  margin-top: 30px;
+}
+
+h3 {
+  margin-top: 5px;
+  color: #ffffff;
+}
+
+.info {
+  color: #ffffff;
+  background-color: #005a9e;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.architecture {
+  color: #ffffff;
+  background-color: #005a9e;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.layer {
+  color: #ffffff;
+  background-color: #0078d4;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.components {
+  color: #ffffff;
+  background-color: #005a9e;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.apps {
+  color: #ffffff;
+  background-color: #0078d4;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.core {
+  color: #ffffff;
+  background-color: #005a9e;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.kernel {
+  color: #ffffff;
+  background-color: #0078d4;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.pros-cons {
+  color: #ffffff;
+  background-color: #005a9e;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.advantages {
+  color: #ffffff;
+  background-color: #0078d4;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.disadvantages {
+  color: #ffffff;
+  background-color: #0078d4;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.logo {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.logo img {
+  width: 560px;
+  max-width: 100%;
+  height: auto;
+}
+
+.history {
+  color: #ffffff;
+  background-color: #005a9e;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.person {
+  color: #ffffff;
+  background-color: #005a9e;
+  text-align: center;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+ul {
+  line-height: 1.7;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+strong {
+  color: #ffffff;
+}
+
+em {
+  color: #dbeeff;
+}
